@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I’m Sachin  
+
+- 💻 Computer Science Engineering student  
+- 🌐 Passionate about Web Development (MERN Stack)  
+- 📚 Currently building full-stack projects  
+- 🚀 Always learning and exploring new technologies  
+ 
+
 
 <!--
 **sachin-sahu-GitHub/sachin-sahu-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
